@@ -1,0 +1,48 @@
+
+  .appbar{
+    background-color: #227093; 
+  }
+
+  /* .title2{
+    display: 'none',
+    theme.breakpoints.up('sm')]: {
+    display: 'block',
+    },
+  }, */
+  .search{
+    position: relative;
+    width: 70%;
+    padding-left: 2rem;
+  }
+  .searchIcon{
+    height: 100%;
+    position: absolute;
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+ 
+  .toolbar{
+    display: flex ;
+    justify-content: space-between;
+  }
+  .input{
+    width: 90%;
+    margin-left: 1rem;
+    background-color: rgb(186, 222, 237);
+    padding-left: 1rem;
+  }
+  .inputBox{
+    width:100%;
+    display:flex;
+    justify-content:flex-end;
+    align-items:center
+  }
+  .autocomplete{
+    width:70%;
+  }
+  .title2{
+    margin-right: 1rem;
+  }

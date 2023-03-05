@@ -1,0 +1,30 @@
+
+
+
+  .formControl{
+    margin: 2rem;
+    width: 10rem;
+    margin-bottom: 30px;
+    background-color: whitesmoke;
+  }
+  .selectEmpty {
+    margin-top: 3rem;
+  }
+  .loading {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    padding: 25px;
+    
+  }
+  .marginBottom {
+    margin-bottom: 30px;
+  }
+  .list {
+    height: 75vh;
+    overflow: auto;
+  }
+ 
